@@ -45,3 +45,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **White-Label Support**: Empowers individual construction companies with their own branded sub-sites (e.g., `meera-enterprises`), providing a unique identity within the platform.
 - **Admin Dashboard**: A robust backend interface for companies to efficiently manage their materials inventory, customer inquiries, and project quotations.
 - **Customer Engagement**: Integrated tools for managing customer inquiries, displaying testimonials, and offering transparent pricing plans.
+
+node:20.19.5
+npm:9.6.0
