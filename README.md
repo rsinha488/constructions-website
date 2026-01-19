@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## About Construct Platform
+
+**Construct Platform** is a multi-tenant SaaS application designed to revolutionize the construction industry. It serves as a comprehensive marketplace and management platform that seamlessly connects construction companies with customers.
+
+### Key Features
+
+- **Company Directory**: A curated listing of partner construction companies (Tenants) showcasing their profiles and expertise.
+- **Materials Catalog**: A centralized, high-quality catalog for browsing and purchasing essential construction materials.
+- **White-Label Support**: Empowers individual construction companies with their own branded sub-sites (e.g., `meera-enterprises`), providing a unique identity within the platform.
+- **Admin Dashboard**: A robust backend interface for companies to efficiently manage their materials inventory, customer inquiries, and project quotations.
+- **Customer Engagement**: Integrated tools for managing customer inquiries, displaying testimonials, and offering transparent pricing plans.
